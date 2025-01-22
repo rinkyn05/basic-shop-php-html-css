@@ -1,3 +1,4 @@
+<!-- Index -->
 <?php
 // Configuración global del sitio
 $title = "Tienda Demo | Inicio";
@@ -9,7 +10,7 @@ include 'includes/header.php';
     <section class="posts">
         <!-- Artículo 1 -->
         <article class="post">
-            <a href="blog/entrada-muestra-8.html">
+            <a href="blog/entrada-muestra-8.php">
                 <img src="multimedia/entradas/pag1/1.jpg" alt="Imagen de la publicación">
             </a>
             <h2>Publicación de Muestra 8: Explorando la Tecnología</h2>
@@ -19,14 +20,14 @@ include 'includes/header.php';
                 En esta publicación, exploraremos los avances tecnológicos más recientes y cómo están impactando en la
                 sociedad.
             </p>
-            <a href="blog/entrada-muestra-8.html">
+            <a href="blog/entrada-muestra-8.php">
                 <button class="read-more">Seguir Leyendo ➞️</button>
             </a>
         </article>
 
         <!-- Artículo 2 (Ejemplo adicional) -->
         <article class="post">
-            <a href="blog/entrada-muestra-9.html">
+            <a href="blog/entrada-muestra-9.php">
                 <img src="multimedia/entradas/pag1/2.jpg" alt="Otra publicación">
             </a>
             <h2>Publicación de Muestra 9: Impacto de la Economía Digital</h2>
@@ -35,7 +36,7 @@ include 'includes/header.php';
                 La economía digital está transformando cómo las empresas operan y se conectan con los consumidores. En
                 esta publicación, discutimos tendencias clave y desafíos de la economía digital.
             </p>
-            <a href="blog/entrada-muestra-9.html">
+            <a href="blog/entrada-muestra-9.php">
                 <button class="read-more">Seguir Leyendo ➞️</button>
             </a>
         </article>

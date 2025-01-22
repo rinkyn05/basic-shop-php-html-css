@@ -34,10 +34,9 @@
 
         <div class="social-links">
             <a href="https://www.facebook.com/tiendademo" class="fab fa-facebook" target="_blank"></a>
-            <a href="https://api.whatsapp.com/send?phone=8498835985" class="fab fa-whatsapp" target="_blank"></a>
+            <a href="https://api.whatsapp.com/send?phone=18296801061" class="fab fa-whatsapp" target="_blank"></a>
             <a href="https://github.com/tiendademo" class="fab fa-github" target="_blank"></a>
-            <a href="#" class="fab fa-instagram" target="_blank"></a>
-            <a href="#" class="fab fa-youtube" target="_blank"></a>
+            <a href="https://api.whatsapp.com/send?phone=18498835985" class="fab fa-whatsapp" target="_blank"></a>
         </div>
     </div>
 
@@ -52,11 +51,11 @@
         <nav class="menu">
             <ul>
                 <li><a href="index.php" class="active">Inicio</a></li>
-                <li><a href="productos/productos.html">Productos</a></li>
-                <li><a href="blog/blog.html">Blog</a></li>
-                <li><a href="paginas/categorias.html">Categorías</a></li>
-                <li><a href="paginas/nosotros.html">Nosotros</a></li>
-                <li><a href="paginas/contacto.html">Contacto</a></li>
+                <li><a href="productos/productos.php">Productos</a></li>
+                <li><a href="blog/blog.php">Blog</a></li>
+                <li><a href="paginas/categorias.php">Categorías</a></li>
+                <li><a href="paginas/nosotros.php">Nosotros</a></li>
+                <li><a href="paginas/contacto.php">Contacto</a></li>
                 <li>
                     <a href="#" class="search-icon">
                         <i class="fas fa-search"></i>
