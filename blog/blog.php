@@ -2,7 +2,7 @@
 <?php
 // Configuración global del sitio
 $title = "Tienda Demo | Blog";
-include 'includes/header.php';
+include '../includes/header.php';
 ?>
 
 <!-- Main content -->
@@ -82,8 +82,8 @@ include 'includes/header.php';
     </section>
 
     <!-- Incluir el archivo de barra lateral -->
-    <?php include 'includes/sidebar.php'; ?>
+    <?php include '../includes/sidebar.php'; ?>
 </main>
 
 <!-- Incluir el archivo del footer -->
-<?php include 'includes/footer.php'; ?>
+<?php include '../includes/footer.php'; ?>
